@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255, 255, 255) !important;
+    font-weight: 600;
+}
